@@ -10,9 +10,6 @@ thank you
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-
 ![Adidurga's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiDurgaBanoth&show_icons=true&theme=radical)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiDurgaBanoth&layout=compact&theme=radical)  
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdiDurgaBanoth&theme=radical)  
